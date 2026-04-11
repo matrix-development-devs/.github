@@ -26,20 +26,21 @@ Whether you need absolute server security or crystal-clear music streaming, we h
 
 ## 🤖 Our Powerful Bots
 
-### 🛡️ [Matrix](https://top.gg/bot/1333527963412594730/)
+### 🛡️ [Matrix](https://discord.com/oauth2/authorize?client_id=1333527963412594730)
 A robust security bot providing advanced moderation, anti-raid features, and absolute server protection. Elite server security and moderation architecture.
 * Advanced Antinuke Module
 * Easy Moderation and Security
 * Custom Role Management
+***[Vote Matrix](https://top.gg/bot/1333527963412594730/)***
 
-### 🎵 EcoFlow
+### 🎵 [EcoFlow](https://discord.com/oauth2/authorize?client_id=1345368395289202729)
 A music bot with crystal clear sound quality bringing your tunes to the server seamlessly. High-fidelity music bot with multi-search streams.
 * Crystal Clear Sound Quality
 * Smart Search
 * No Lag Just Play
 * Multi-Platform Streaming Support!
 
-### 🎶 EcoFlux
+### 🎶 [EcoFlux](https://discord.com/oauth2/authorize?client_id=1383756720391847966)
 Your ultimate music companion, designed to bring robust music streaming to your community. The ultimate music companion node with zero latency.
 * Partner to EcoFlow
 * Complete Companion Module
@@ -55,14 +56,14 @@ The brilliant minds behind Matrix Development:
 | :--- | :--- | :--- | :--- |
 | **Cute Boy** | Owner / Developer | Mastermind behind bots architecture and core functionalities. | [@mxtrix67](https://github.com/mxtrix67) |
 | **Nobita** | Owner / Developer | Contributing innovative features dedicated to maintaining standards. | [@nobitaunplugged](https://github.com/nobitaunplugged) |
-| **Viperr XD** | Co / Head Developer | Ensures all our bots are user-friendly and aesthetically pleasing with uninterrupted working. | [@viperrxd](https://github.com/viperrxd) |
+| **Viperr XD** | Co Owner / Head Developer | Ensures all our bots are user-friendly and aesthetically pleasing with uninterrupted working. | [@viperrxd](https://github.com/viperrxd) |
 | **Nobita <3** | Co Owner / Manager | Responsible for overseeing bot operations and ensuring smooth functionality. | N/A |
 
 ---
 
 ## 🤝 Valued Partners
 
-**Glacier Hosting**
+**[Glacier Hosting](https://glacierhosting.in/)**
 Reliable and high-performance hosting solutions powering our services, ensuring seamless operation for all our bots.
 
 ---
