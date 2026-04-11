@@ -31,7 +31,7 @@ A robust security bot providing advanced moderation, anti-raid features, and abs
 * Advanced Antinuke Module
 * Easy Moderation and Security
 * Custom Role Management
-***[Vote Matrix](https://top.gg/bot/1333527963412594730/)***
+* ***[Vote Matrix](https://top.gg/bot/1333527963412594730/)***
 
 ### 🎵 [EcoFlow](https://discord.com/oauth2/authorize?client_id=1345368395289202729)
 A music bot with crystal clear sound quality bringing your tunes to the server seamlessly. High-fidelity music bot with multi-search streams.
