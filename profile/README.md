@@ -33,7 +33,7 @@ A robust security bot providing advanced moderation, anti-raid features, and abs
 * Custom Role Management
 * ***[Vote Matrix](https://top.gg/bot/1333527963412594730/)***
 
-### 🎵 [EcoFlow](https://discord.com/oauth2/authorize?client_id=1345368395289202729)
+### 🎵 [EchoFlow](https://discord.com/oauth2/authorize?client_id=1345368395289202729)
 A music bot with crystal clear sound quality bringing your tunes to the server seamlessly. High-fidelity music bot with multi-search streams.
 * Crystal Clear Sound Quality
 * Smart Search
@@ -42,7 +42,7 @@ A music bot with crystal clear sound quality bringing your tunes to the server s
 
 ### 🎶 [EcoFlux](https://discord.com/oauth2/authorize?client_id=1383756720391847966)
 Your ultimate music companion, designed to bring robust music streaming to your community. The ultimate music companion node with zero latency.
-* Partner to EcoFlow
+* Partner to EchoFlow
 * Complete Companion Module
 * Spotify, SoundCloud & More
 
