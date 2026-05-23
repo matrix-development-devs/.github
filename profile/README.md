@@ -39,6 +39,7 @@ A music bot with crystal clear sound quality bringing your tunes to the server s
 * Smart Search
 * No Lag Just Play
 * Multi-Platform Streaming Support!
+* ***[Vote EchoFlow](https://top.gg/bot/1345368395289202729)***
 
 ### 🎶 [EcoFlux](https://discord.com/oauth2/authorize?client_id=1383756720391847966)
 Your ultimate music companion, designed to bring robust music streaming to your community. The ultimate music companion node with zero latency.
