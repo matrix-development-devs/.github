@@ -57,8 +57,8 @@ The brilliant minds behind Matrix Development:
 | :--- | :--- | :--- | :--- |
 | **Cute Boy** | Owner / Developer | Mastermind behind bots architecture and core functionalities. | [@mxtrix67](https://github.com/mxtrix67) |
 | **Nobita** | Owner / Developer | Contributing innovative features dedicated to maintaining standards. | [@nobitaunplugged](https://github.com/nobitaunplugged) |
-| **Viperr XD** | Co Owner / Head Developer | Ensures all our bots are user-friendly and aesthetically pleasing with uninterrupted working. | [@viperrxd](https://github.com/viperrxd) |
-| **Nobita <3** | Co Owner / Manager | Responsible for overseeing bot operations and ensuring smooth functionality. | N/A |
+| **Viperr XD** | Owner / Head Developer | Ensures all our bots are user-friendly and aesthetically pleasing with uninterrupted working. | [@viperrxd](https://github.com/viperrxd) |
+| **Nobita <3** | Owner / Manager | Responsible for overseeing bot operations and ensuring smooth functionality. | N/A |
 
 ---
 
